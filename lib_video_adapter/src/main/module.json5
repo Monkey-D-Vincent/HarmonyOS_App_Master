@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "lib_video_adapter",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}

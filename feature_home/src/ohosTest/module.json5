@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "feature_home_test",
+    "type": "feature",
+    "deviceTypes": ["phone"],
+    "deliveryWithInstall": true,
+    "installationFree": false
+  }
+}

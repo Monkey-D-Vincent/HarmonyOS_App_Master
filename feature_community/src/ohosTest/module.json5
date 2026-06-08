@@ -1,0 +1,11 @@
+{
+  "module": {
+    "name": "feature_community_test",
+    "type": "feature",
+    "deviceTypes": [
+      "phone"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false
+  }
+}

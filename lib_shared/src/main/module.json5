@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "lib_shared",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}

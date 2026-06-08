@@ -1,0 +1,26 @@
+{
+  "module": {
+    "name": "feature_community",
+    "type": "feature",
+    "description": "$string:module_desc",
+    "mainElement": "FeatureCommunityAbility",
+    "deviceTypes": [
+      "phone"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "FeatureCommunityAbility",
+        "srcEntry": "./ets/featurecommunityability/FeatureCommunityAbility.ets",
+        "description": "$string:FeatureCommunityAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:FeatureCommunityAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true
+      }
+    ]
+  }
+}
