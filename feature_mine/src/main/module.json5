@@ -4,21 +4,23 @@
     "type": "feature",
     "description": "$string:module_desc",
     "mainElement": "FeatureMineAbility",
-    "deviceTypes":  ["phone"],
+    "deviceTypes": [
+      "phone"
+    ],
     "deliveryWithInstall": true,
     "installationFree": false,
     "pages": "$profile:main_pages",
     "abilities": [
-    {
+      {
         "name": "FeatureMineAbility",
         "srcEntry": "./ets/featuremineability/FeatureMineAbility.ets",
         "description": "$string:FeatureMineAbility_desc",
-          "icon": "$media:layered_image",
+        "icon": "$media:layered_image",
         "label": "$string:FeatureMineAbility_label",
-        "startWindowIcon" : "$media:startIcon",
-        "startWindowBackground" : "$color:start_window_background"
-          ,
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
         "exported": true
-      }]
+      }
+    ]
   }
 }

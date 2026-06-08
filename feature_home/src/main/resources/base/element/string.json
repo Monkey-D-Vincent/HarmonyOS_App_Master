@@ -3,12 +3,14 @@
     {
       "name": "module_desc",
       "value": "module description"
-    }
-  ,{
+    },
+    {
       "name": "FeatureHomeAbility_desc",
       "value": "description"
-    },{
+    },
+    {
       "name": "FeatureHomeAbility_label",
       "value": "label"
-    }]
+    }
+  ]
 }

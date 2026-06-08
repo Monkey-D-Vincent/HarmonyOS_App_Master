@@ -2,7 +2,9 @@
   "module": {
     "name": "feature_mine_test",
     "type": "feature",
-    "deviceTypes": ["phone"],
+    "deviceTypes": [
+      "phone"
+    ],
     "deliveryWithInstall": true,
     "installationFree": false
   }

@@ -37,6 +37,78 @@
           ]
         }
       ]
+    },
+    {
+      "name": "feature_home",
+      "srcPath": "./feature_home",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "feature_mine",
+      "srcPath": "./feature_mine",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "feature_chat",
+      "srcPath": "./feature_chat",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "feature_community",
+      "srcPath": "./feature_community",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "lib_network",
+      "srcPath": "./lib_network",
+    },
+    {
+      "name": "common",
+      "srcPath": "./common",
+    },
+    {
+      "name": "lib_video",
+      "srcPath": "./lib_video",
+    },
+    {
+      "name": "lib_ui",
+      "srcPath": "./lib_ui",
+    },
+    {
+      "name": "lib_shared",
+      "srcPath": "./lib_shared"
+    },
+    {
+      "name": "lib_video_adapter",
+      "srcPath": "./lib_video_adapter",
     }
   ]
 }

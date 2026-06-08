@@ -3,12 +3,14 @@
     {
       "name": "module_desc",
       "value": "module description"
-    }
-  ,{
+    },
+    {
       "name": "FeatureMineAbility_desc",
       "value": "description"
-    },{
+    },
+    {
       "name": "FeatureMineAbility_label",
       "value": "label"
-    }]
+    }
+  ]
 }
